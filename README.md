@@ -11,5 +11,5 @@ PASSWORD: admin1234
 
 USER LOGIN: 
 URL:http://localhost/evidencija%20zaposlenih/
-EMAIL: nikolajelicic@gmail.com
-PASSWORD: nikolajelicic
+EMAIL: sava@gmail.com
+PASSWORD: sava1
