@@ -1,3 +1,4 @@
+This is my first project.
 Projector for the registration of workers in a cardboard packaging factory. 
 Use of PHP, MySql, CSS, HTML, BOOTSTRAP, jQuery technologies.
 The project is completely SPA(AJAX).
